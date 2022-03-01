@@ -3,7 +3,7 @@ package pong;
 import java.awt.Color;
 
 public class Ball extends Sprite {
-	static final Color BALL_COLOUR = Color.white;
+	static final Color BALL_COLOUR = Color.decode("#FF55FF");
 	static final int BALL_WIDTH = 25;
 	static final int BALL_HEIGHT = 25;
 	
